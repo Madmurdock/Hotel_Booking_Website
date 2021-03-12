@@ -1,6 +1,1 @@
-var myModal = document.getElementById('myModal')
-var myInput = document.getElementById('myInput')
-
-myModal.addEventListener('shown.bs.modal', function () {
-  myInput.focus()
-})
+0 lines (0 sloc)  0 Bytes
